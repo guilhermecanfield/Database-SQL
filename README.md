@@ -1,2 +1,2 @@
 # Database-SQL
- Projetos Conceituais e em SQL
+ Projetos Conceituais de Banco de Dados e construção dos esquemas no SQL
